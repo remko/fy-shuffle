@@ -1,4 +1,4 @@
-# [fy-shuffle: Customizable Fisher-Yates shuffle](http://el-tramo.be/fy-shuffle)
+# [fy-shuffle: Customizable Fisher-Yates shuffle](https://el-tramo.be/fy-shuffle)
 
 Shuffles an array using the [Fisher-Yates algorithm](http://en.wikipedia.org/wiki/Fisher–Yates_shuffle). The difference between this implementation and others out there is that 
 the shuffle is parameterized with a random number generator function, so it can

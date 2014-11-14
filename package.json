@@ -12,12 +12,15 @@
 		"fisher-yates",
 		"durstenfeld"
 	],
-	"author": "Remko Tronçon",
+	"author": {
+		"name": "Remko Tronçon",
+		"url": "https://el-tramo.be"
+	},
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/remko/fy-shuffle/issues"
 	},
-	"homepage": "http://el-tramo.be/fy-shuffle",
+	"homepage": "https://el-tramo.be/fy-shuffle",
 	"devDependencies": {
 		"chai": "^1.9.2",
 		"mocha": "^2.0.1"
