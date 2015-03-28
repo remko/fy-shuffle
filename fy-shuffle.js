@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 // Durstenfeld shuffle
 // Returns a copy of the array. Could probably use a more efficient algorithm
