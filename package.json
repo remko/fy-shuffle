@@ -23,7 +23,8 @@
   "homepage": "https://el-tramo.be/fy-shuffle",
   "devDependencies": {
     "chai": "^1.9.2",
-    "eslint": "^0.17.1",
+    "eslint": "^0.21.0",
+    "eslint-config-remko": "^1.0.0",
     "ghooks": "^0.3.0",
     "mocha": "^2.0.1"
   },
